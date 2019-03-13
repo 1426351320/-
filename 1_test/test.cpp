@@ -13,6 +13,7 @@ using namespace std;
 int main(int argc, char *argv[])
 {
 	int a(9);
+	float b(3.14);
 
 	return 0;
 }
